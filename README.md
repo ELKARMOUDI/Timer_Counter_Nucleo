@@ -3,7 +3,6 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue)
 ![TIM1](https://img.shields.io/badge/TIM1-External_Counter-green)
 
-
 ![DAF0E19C-A7E8-4865-9698-32470E57E577](https://github.com/user-attachments/assets/684b8c18-f251-4f7e-bcb2-075a4e63503f)
 
 
