@@ -15,6 +15,7 @@ Count external pulses using TIM1's ETR input and toggle LED on overflow.
 - **84MHz System Clock** (HSI-based PLL)
 - **HAL Implementation** with interrupt
 
+
 ## Hardware Configuration
 | Component | Specification | Nucleo Reference |
 |-----------|---------------|------------------|
